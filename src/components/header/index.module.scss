@@ -1,0 +1,42 @@
+.header_parent {
+  width: 100%;
+  height: 10rem;
+  border-bottom: 1px solid #8080803d;
+}
+
+.logo {
+  background-image: url(../../assets/logo.svg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+.navigation {
+  padding: 1rem;
+  padding-top: 0.5px;
+  display: flex;
+
+  gap: 3rem;
+  & > a {
+    font-size: 1.1em;
+    text-decoration: none;
+    color: gray;
+    padding-top: 0.5em;
+    margin-top: -1px;
+    position: relative;
+  }
+}
+.active {
+  color: black !important;
+  font-weight: bold !important;
+  &::after {
+    position: absolute;
+    content: "";
+    height: 0.5rem;
+    width: 100%;
+
+    border-top: 2px solid black !important;
+
+    left: 0;
+    top: 1%;
+  }
+}

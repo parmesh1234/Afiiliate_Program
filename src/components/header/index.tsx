@@ -27,12 +27,7 @@ const Header: React.FC<indexProps> = () => {
         >
           Terms and Conditions
         </NavLink>
-        <NavLink
-          className={pathname === "/contactus" ? classes.active : ""}
-          to={"/contactus"}
-        >
-          Contact Us
-        </NavLink>
+
         <NavLink
           className={pathname === "/disclaimer" ? classes.active : ""}
           to={"/disclaimer"}
@@ -50,6 +45,12 @@ const Header: React.FC<indexProps> = () => {
           to={"/faq"}
         >
           FAQ
+        </NavLink>
+        <NavLink
+          className={pathname === "/contactus" ? classes.active : ""}
+          to={"/contactus"}
+        >
+          Contact Us
         </NavLink>
       </div>
     </React.Fragment>

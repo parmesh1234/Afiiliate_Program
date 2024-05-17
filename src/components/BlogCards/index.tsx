@@ -42,7 +42,7 @@ const Blogcards: React.FC<indexProps> = () => {
   ];
   return (
     <>
-      {isWide && <div className={classes.banner}></div>}
+
       <div className={classes.blogs_container}>
         {productList.map((e, i) => {
           return (

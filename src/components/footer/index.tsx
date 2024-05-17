@@ -31,6 +31,7 @@ const Footer: React.FC<indexProps> = () => {
         <NavLink to={"/contactus"}>
           <b>Contact Us</b>
         </NavLink>
+
       </div>
     </React.Fragment>
   );

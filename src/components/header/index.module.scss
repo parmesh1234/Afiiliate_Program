@@ -1,7 +1,25 @@
 .header_parent {
-  width: 100%;
+  width: 90%;
   height: 10rem;
   border-bottom: 1px solid #8080803d;
+  background-color: transparent;
+  transition: width 0.5s, background-color 0.5s;
+
+  margin-left: 5%;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  & > :first-child {
+    width: max-content;
+    height: 1;
+    height: 11em;
+    width: 12em;
+  }
+  & > :nth-child(2) {
+    flex: 1;
+  }
 }
 
 .logo {
@@ -14,8 +32,10 @@
   padding: 1rem;
   padding-top: 0.5px;
   display: flex;
-
+  width: max-content;
   gap: 3rem;
+  display: flex;
+  justify-content: center;
   & > a {
     font-size: 1.1em;
     text-decoration: none;
@@ -38,5 +58,41 @@
 
     left: 0;
     top: 1%;
+  }
+}
+
+.shrink_header {
+  background-color: #353a4e;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  margin: 0.2% 5% 0 5%;
+  transition: width 0.5s, padding 0.5s, margin 0.5s, border-radius 0.9s,
+    background-color 0.5s;
+  width: 90%;
+
+  & * a {
+    color: white;
+  }
+  & * .active {
+    color: white !important;
+    &::after {
+      position: absolute !important;
+      content: "" !important;
+      height: 0.5rem !important;
+      width: 100% !important;
+
+      border-top: 2px solid white !important ;
+
+      left: 0 !important;
+      top: 1% !important;
+    }
   }
 }

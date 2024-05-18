@@ -17,14 +17,14 @@ const index: React.FC<iProps> = () => {
   return (
     <div className={classes.home_parent}>
       <Routes>
-        <Route path="/" element={<BlogCards />} />
-        <Route path="/Afiiliate_Program/" element={<BlogCards />} />
-        <Route path="/terms" element={<Terms />} />
-        <Route path="/aboutus" element={<About />} />
-        <Route path="/disclaimer" element={<Disclaimer />} />
-        <Route path="/privacypolicy" element={<Privacy />} />
-        <Route path="/faq" element={<Faq />} />
-        <Route path="/contactus" element={<Contactus />} />
+
+        <Route path="/affiliate/" element={<BlogCards />} />
+        <Route path="/affiliate/terms" element={<Terms />} />
+        <Route path="/affiliate/aboutus" element={<About />} />
+        <Route path="/affiliate/disclaimer" element={<Disclaimer />} />
+        <Route path="affiliate/privacypolicy" element={<Privacy />} />
+        <Route path="/affiliate/faq" element={<Faq />} />
+        <Route path="/affiliate/contactus" element={<Contactus />} />
       </Routes>
     </div>
   );

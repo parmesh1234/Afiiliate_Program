@@ -18,6 +18,7 @@ const index: React.FC<iProps> = () => {
     <div className={classes.home_parent}>
       <Routes>
         <Route path="/" element={<BlogCards />} />
+        <Route path="/Afiiliate_Program/" element={<BlogCards />} />
         <Route path="/terms" element={<Terms />} />
         <Route path="/aboutus" element={<About />} />
         <Route path="/disclaimer" element={<Disclaimer />} />

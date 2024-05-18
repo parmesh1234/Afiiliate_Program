@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Afiiliate_Program/static/css/main.d6e0f606.css",
-    "main.js": "/Afiiliate_Program/static/js/main.735f214e.js",
-    "static/js/453.6083c70a.chunk.js": "/Afiiliate_Program/static/js/453.6083c70a.chunk.js",
-    "static/media/banner1.png": "/Afiiliate_Program/static/media/banner1.05eceadccadb93e1ac8e.png",
-    "static/media/OpenSans-Regular.ttf": "/Afiiliate_Program/static/media/OpenSans-Regular.17e98b9e5586529b13cc.ttf",
-    "static/media/oil.jpg": "/Afiiliate_Program/static/media/oil.ad9f5abef616d118c8a0.jpg",
-    "static/media/honey.jpg": "/Afiiliate_Program/static/media/honey.3b2c720c8c1da7e263f6.jpg",
-    "static/media/daipers.jpg": "/Afiiliate_Program/static/media/daipers.23676c62be0a67f28b8f.jpg",
-    "static/media/shampoo.jpg": "/Afiiliate_Program/static/media/shampoo.0cc1e31128811d09ea18.jpg",
-    "static/media/Logo1.svg": "/Afiiliate_Program/static/media/Logo1.0a2a9d2feb0b779b9977.svg",
-    "index.html": "/Afiiliate_Program/index.html",
-    "main.d6e0f606.css.map": "/Afiiliate_Program/static/css/main.d6e0f606.css.map",
-    "main.735f214e.js.map": "/Afiiliate_Program/static/js/main.735f214e.js.map",
-    "453.6083c70a.chunk.js.map": "/Afiiliate_Program/static/js/453.6083c70a.chunk.js.map"
+    "main.css": "/affiliate/static/css/main.8ace79de.css",
+    "main.js": "/affiliate/static/js/main.2afcf4a6.js",
+    "static/js/453.6083c70a.chunk.js": "/affiliate/static/js/453.6083c70a.chunk.js",
+    "static/media/banner1.png": "/affiliate/static/media/banner1.05eceadccadb93e1ac8e.png",
+    "static/media/OpenSans-Regular.ttf": "/affiliate/static/media/OpenSans-Regular.17e98b9e5586529b13cc.ttf",
+    "static/media/oil.jpg": "/affiliate/static/media/oil.ad9f5abef616d118c8a0.jpg",
+    "static/media/honey.jpg": "/affiliate/static/media/honey.3b2c720c8c1da7e263f6.jpg",
+    "static/media/daipers.jpg": "/affiliate/static/media/daipers.23676c62be0a67f28b8f.jpg",
+    "static/media/shampoo.jpg": "/affiliate/static/media/shampoo.0cc1e31128811d09ea18.jpg",
+    "static/media/Logo1.svg": "/affiliate/static/media/Logo1.0a2a9d2feb0b779b9977.svg",
+    "index.html": "/affiliate/index.html",
+    "main.8ace79de.css.map": "/affiliate/static/css/main.8ace79de.css.map",
+    "main.2afcf4a6.js.map": "/affiliate/static/js/main.2afcf4a6.js.map",
+    "453.6083c70a.chunk.js.map": "/affiliate/static/js/453.6083c70a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6e0f606.css",
-    "static/js/main.735f214e.js"
+    "static/css/main.8ace79de.css",
+    "static/js/main.2afcf4a6.js"
   ]
 }

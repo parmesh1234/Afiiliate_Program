@@ -20,8 +20,8 @@ const index: React.FC<indexProps> = ({
     <div className={classes.blogcard_parent}>
       <img className={classes.prod_image} src={image} alt="productImage" />
       <div className={classes.title}>{title}</div>
-      <div>{heading}</div>
-      <div>{description}</div>
+      <div className={classes.heading}>{heading}</div>
+      <div className={classes.desc}>{description}</div>
       <a href={buttonLink} target="_blank">
         Buy Now
       </a>

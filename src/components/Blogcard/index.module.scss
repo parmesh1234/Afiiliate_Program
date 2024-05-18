@@ -2,12 +2,12 @@
   display: flex;
   flex-basis: auto;
   height: max-content;
-  width: 20rem;
+  width: 15rem;
   background-color: #eae7dc;
-  height: 30rem;
-  border-radius: 5px;
+  height: 27rem;
+  border-radius: 9px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-
+  border: 2px solid rgba(0, 0, 0, 0.128);
   justify-content: space-around;
   display: flex;
   flex-direction: column;
@@ -27,4 +27,11 @@
   padding: 2px 12px 2px 12px;
   color: white;
   width: max-content;
+}
+.desc {
+  font-size: 0.8rem;
+}
+.heading {
+  font-size: 0.8rem;
+  font-weight: bolder;
 }

@@ -4,6 +4,7 @@ import classes from "./index.module.scss";
 import diaperImage from "../../assets/product_images/daipers.jpg";
 import shampooImage from "../../assets/product_images/shampoo.jpg";
 import honeyImage from "../../assets/product_images/honey.jpg";
+import Oil from "../../assets/product_images/oil.jpg";
 import { useMedia } from "react-use";
 
 type indexProps = {};
@@ -39,6 +40,17 @@ const Blogcards: React.FC<indexProps> = () => {
       buttonLink:
         "https://www.amazon.in/gp/product/B08B44K4YS/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1",
     },
+    {
+      image: Oil,
+      title: "Grocery",
+      heading: "Fortune Sunlite Refined Sunflower Oil, 1L",
+      description:
+        "Actual product packaging and materials may contain more and different information than what is shown on our app or website",
+      buttonLink:
+        "https://www.amazon.in/Fortune-Sunlite-Refined-Sunflower-Oil/dp/B00NYZTGEO/ref=pd_bxgy_d_sccl_1/261-6073260-8005066?pd_rd_w=0roLT&content-id=amzn1.sym.f406cf11-1229-4650-9e74-6c521f43ef93&pf_rd_p=f406cf11-1229-4650-9e74-6c521f43ef93&pf_rd_r=KWS2BJCDJBS7RDHA09TW&pd_rd_wg=vNIO5&pd_rd_r=79947c39-cf4f-4bad-9c1b-1360300bc24e&pd_rd_i=B00NYZTGEO&psc=1",
+    },
+
+
   ];
   return (
     <>

@@ -9,6 +9,7 @@ const Footer: React.FC<indexProps> = () => {
   return (
     <React.Fragment>
       <div className={classes.footer}>
+        <p className={classes.nav_header}>Navigation</p>
         <NavLink to={"/"}>
           <b>Home</b>
         </NavLink>

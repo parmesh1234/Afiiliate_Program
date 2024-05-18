@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Afiiliate_Program/static/css/main.d6e0f606.css",
-    "main.js": "/Afiiliate_Program/static/js/main.939f44f0.js",
+    "main.js": "/Afiiliate_Program/static/js/main.35123842.js",
     "static/js/453.6083c70a.chunk.js": "/Afiiliate_Program/static/js/453.6083c70a.chunk.js",
     "static/media/banner1.png": "/Afiiliate_Program/static/media/banner1.05eceadccadb93e1ac8e.png",
     "static/media/OpenSans-Regular.ttf": "/Afiiliate_Program/static/media/OpenSans-Regular.17e98b9e5586529b13cc.ttf",
@@ -12,11 +12,11 @@
     "static/media/Logo1.svg": "/Afiiliate_Program/static/media/Logo1.0a2a9d2feb0b779b9977.svg",
     "index.html": "/Afiiliate_Program/index.html",
     "main.d6e0f606.css.map": "/Afiiliate_Program/static/css/main.d6e0f606.css.map",
-    "main.939f44f0.js.map": "/Afiiliate_Program/static/js/main.939f44f0.js.map",
+    "main.35123842.js.map": "/Afiiliate_Program/static/js/main.35123842.js.map",
     "453.6083c70a.chunk.js.map": "/Afiiliate_Program/static/js/453.6083c70a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6e0f606.css",
-    "static/js/main.939f44f0.js"
+    "static/js/main.35123842.js"
   ]
 }

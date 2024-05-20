@@ -16,7 +16,7 @@ const Blogcards: React.FC<indexProps> = () => {
     {
       image: diaperImage,
       title: "Baby",
-      heading: "Pampers All round Protection Pants Style Baby Diapers",
+      heading: "Pampers All round Protection Pants Style Baby Diapers.",
       description:
         "New & Improved Pampers All-round Protection Pants – high quality diaper pants for complete protection of your baby",
       buttonLink:

@@ -22,7 +22,7 @@ const index: React.FC<iProps> = () => {
         <Route path="/terms" element={<Terms />} />
         <Route path="/aboutus" element={<About />} />
         <Route path="/disclaimer" element={<Disclaimer />} />
-        <Route path="affiliate/privacypolicy" element={<Privacy />} />
+        <Route path="/privacypolicy" element={<Privacy />} />
         <Route path="/faq" element={<Faq />} />
         <Route path="/contactus" element={<Contactus />} />
       </Routes>

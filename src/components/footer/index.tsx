@@ -10,26 +10,26 @@ const Footer: React.FC<indexProps> = () => {
     <React.Fragment>
       <div className={classes.footer}>
         <p className={classes.nav_header}>Navigation</p>
-        <NavLink to={"/Afiiliate_Program/"}>
+        <NavLink to={"/"}>
           <b>Home</b>
         </NavLink>
-        <NavLink to={"/Afiiliate_Program/aboutus"}>
+        <NavLink to={"/aboutus"}>
           <b>About Us</b>
         </NavLink>
-        <NavLink to={"/Afiiliate_Program/terms"}>
+        <NavLink to={"/terms"}>
           <b>Terms and Conditions</b>
         </NavLink>
 
-        <NavLink to={"/Afiiliate_Program/disclaimer"}>
+        <NavLink to={"/disclaimer"}>
           <b>Disclaimer</b>
         </NavLink>
-        <NavLink to={"/Afiiliate_Program/privacypolicy"}>
+        <NavLink to={"/privacypolicy"}>
           <b>Privacy Policy</b>
         </NavLink>
-        <NavLink to={"/Afiiliate_Program/faq"}>
+        <NavLink to={"/faq"}>
           <b>FAQ</b>
         </NavLink>
-        <NavLink to={"/Afiiliate_Program/contactus"}>
+        <NavLink to={"/contactus"}>
           <b>Contact Us</b>
         </NavLink>
 

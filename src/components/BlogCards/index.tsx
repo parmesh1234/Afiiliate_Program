@@ -71,7 +71,7 @@ const Blogcards: React.FC<indexProps> = () => {
   return (
     <>
 
-      <div className={classes.blogs_container}>
+      <div className={`${classes.blogs_container} ${!isWide && classes.mobile_view}`}>
         {productList.map((e, i) => {
           return (
             <BlogCard

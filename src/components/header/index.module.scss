@@ -129,3 +129,12 @@
     }
   }
 }
+.toggleButton {
+  width: max-content;
+  flex: none !important;
+  font-size: 2rem;
+}
+
+.mobile_version_size {
+  flex: 1;
+}

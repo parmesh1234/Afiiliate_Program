@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d14d234.css",
-    "main.js": "/static/js/main.f8864c6e.js",
+    "main.css": "/static/css/main.97bf95cc.css",
+    "main.js": "/static/js/main.58dd7785.js",
     "static/js/453.6083c70a.chunk.js": "/static/js/453.6083c70a.chunk.js",
     "static/media/banner1.png": "/static/media/banner1.05eceadccadb93e1ac8e.png",
     "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.17e98b9e5586529b13cc.ttf",
     "static/media/ariel.jpg": "/static/media/ariel.4c9c8add7892d8a18ba1.jpg",
     "static/media/trimmer.jpg": "/static/media/trimmer.ace67a27bb8abc196326.jpg",
+    "static/media/dumbell.jpg": "/static/media/dumbell.7cd0abe471a7735f4239.jpg",
     "static/media/daipers.jpg": "/static/media/daipers.23676c62be0a67f28b8f.jpg",
+    "static/media/lymiotshirt.jpg": "/static/media/lymiotshirt.f80e95c5ba28198a3bb3.jpg",
     "static/media/shampoo.jpg": "/static/media/shampoo.0cc1e31128811d09ea18.jpg",
     "static/media/Logo1.svg": "/static/media/Logo1.0a2a9d2feb0b779b9977.svg",
     "index.html": "/index.html",
-    "main.8d14d234.css.map": "/static/css/main.8d14d234.css.map",
-    "main.f8864c6e.js.map": "/static/js/main.f8864c6e.js.map",
+    "main.97bf95cc.css.map": "/static/css/main.97bf95cc.css.map",
+    "main.58dd7785.js.map": "/static/js/main.58dd7785.js.map",
     "453.6083c70a.chunk.js.map": "/static/js/453.6083c70a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d14d234.css",
-    "static/js/main.f8864c6e.js"
+    "static/css/main.97bf95cc.css",
+    "static/js/main.58dd7785.js"
   ]
 }

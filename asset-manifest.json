@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.7f515f1a.css",
-    "main.js": "/static/js/main.f2c294fc.js",
+    "main.js": "/static/js/main.95728bc8.js",
     "static/js/453.6083c70a.chunk.js": "/static/js/453.6083c70a.chunk.js",
     "static/media/banner1.png": "/static/media/banner1.05eceadccadb93e1ac8e.png",
     "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.17e98b9e5586529b13cc.ttf",
     "static/media/ariel.jpg": "/static/media/ariel.4c9c8add7892d8a18ba1.jpg",
+    "static/media/facialkit.jpg": "/static/media/facialkit.645f61566b2de3dea9c7.jpg",
     "static/media/trimmer.jpg": "/static/media/trimmer.ace67a27bb8abc196326.jpg",
     "static/media/dumbell.jpg": "/static/media/dumbell.7cd0abe471a7735f4239.jpg",
     "static/media/daipers.jpg": "/static/media/daipers.23676c62be0a67f28b8f.jpg",
@@ -14,11 +15,11 @@
     "static/media/Logo1.svg": "/static/media/Logo1.0a2a9d2feb0b779b9977.svg",
     "index.html": "/index.html",
     "main.7f515f1a.css.map": "/static/css/main.7f515f1a.css.map",
-    "main.f2c294fc.js.map": "/static/js/main.f2c294fc.js.map",
+    "main.95728bc8.js.map": "/static/js/main.95728bc8.js.map",
     "453.6083c70a.chunk.js.map": "/static/js/453.6083c70a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f515f1a.css",
-    "static/js/main.f2c294fc.js"
+    "static/js/main.95728bc8.js"
   ]
 }

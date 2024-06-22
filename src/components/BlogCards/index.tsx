@@ -8,6 +8,7 @@ import Ariel from "../../assets/product_images/ariel.jpg";
 import Dumbell from "../../assets/product_images/dumbell.jpg";
 import LymioTshirt from "../../assets/product_images/lymiotshirt.jpg";
 import Trimmer from "../../assets/product_images/trimmer.jpg";
+import FacialKit from "../../assets/product_images/facialkit.jpg";
 
 import { useMedia } from "react-use";
 
@@ -72,7 +73,14 @@ const Blogcards: React.FC<indexProps> = () => {
       heading: "MI Xiaomi Beard Trimmer for Men 2C With High Precision Trimming",
       description: "Perfect Trim Every time - Trim with confidence! Our trimmer's 0.5mm precision ensures a flawless grooming every time! ",
       buttonLink: "https://amzn.to/4biaaUl"
+    }, {
+      image: FacialKit,
+      title: "Skin Care",
+      heading: "Spruce Shave Club Charcoal Facial Kit For Men",
+      description: "CONTROL OILY SKIN | Our facial kit for men is powered by activated charcoal which has powerful adsorbent properties",
+      buttonLink: "https://amzn.to/3KVmuze"
     }
+
 
 
 

@@ -70,7 +70,7 @@ const Blogcards: React.FC<indexProps> = () => {
       image: Trimmer,
       title: "Men's",
       heading: "MI Xiaomi Beard Trimmer for Men 2C With High Precision Trimming",
-      description: "Perfect Trim Every time - Trim with confidence! Our trimmer's 0.5mm precision ensures a flawless grooming every time.;Goodbye to Frequent Charging! ",
+      description: "Perfect Trim Every time - Trim with confidence! Our trimmer's 0.5mm precision ensures a flawless grooming every time! ",
       buttonLink: "https://amzn.to/4biaaUl"
     }
 

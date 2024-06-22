@@ -7,6 +7,7 @@ import TrimmerImage from "../../assets/product_images/trimmer.jpg";
 import Ariel from "../../assets/product_images/ariel.jpg";
 import Dumbell from "../../assets/product_images/dumbell.jpg";
 import LymioTshirt from "../../assets/product_images/lymiotshirt.jpg";
+import Trimmer from "../../assets/product_images/trimmer.jpg";
 
 import { useMedia } from "react-use";
 
@@ -65,7 +66,16 @@ const Blogcards: React.FC<indexProps> = () => {
       heading: "Lymio Men T-Shirt || T-Shirt for Men || Plain T Shirt || T-Shirt (Polo-18-21)",
       description: "Men T Shirt, Color Disclaimer: Product color might slightly vary due to photographic lighting sources or your monitor settings",
       buttonLink: "https://amzn.to/4br6LDp"
+    }, {
+      image: Trimmer,
+      title: "Men's",
+      heading: "MI Xiaomi Beard Trimmer for Men 2C With High Precision Trimming",
+      description: "Perfect Trim Every time - Trim with confidence! Our trimmer's 0.5mm precision ensures a flawless grooming every time.;Goodbye to Frequent Charging! ",
+      buttonLink: "https://amzn.to/4biaaUl"
     }
+
+
+
 
   ];
   return (

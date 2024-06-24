@@ -3,12 +3,13 @@ import BlogCard from "../Blogcard";
 import classes from "./index.module.scss";
 import diaperImage from "../../assets/product_images/daipers.jpg";
 import shampooImage from "../../assets/product_images/shampoo.jpg";
-import TrimmerImage from "../../assets/product_images/trimmer.jpg";
+import Peekaboo from "../../assets/product_images/peekaboo.jpg";
 import Ariel from "../../assets/product_images/ariel.jpg";
 import Dumbell from "../../assets/product_images/dumbell.jpg";
 import LymioTshirt from "../../assets/product_images/lymiotshirt.jpg";
 import Trimmer from "../../assets/product_images/trimmer.jpg";
 import FacialKit from "../../assets/product_images/facialkit.jpg";
+import Sorter from "../../assets/product_images/sorter.jpg";
 
 import { useMedia } from "react-use";
 
@@ -35,15 +36,6 @@ const Blogcards: React.FC<indexProps> = () => {
         "PREVENT HAIR BREAKAGE FROM STRANDS: Hair breakage occurs when over-conditioning makes the hair too heavy, and the roots cannot bear the weight of the heavy hair follicle.",
       buttonLink:
         "https://amzn.to/3WNR7xJ",
-    },
-    {
-      image: TrimmerImage,
-      title: "Electronics",
-      heading: "MI Xiaomi Grooming Kit,(Trimmer Kit)",
-      description:
-        "Effortlessly Switch up your Grooming Routine - Experience the convenience of all your grooming needs in one kit, featuring multiple attachments",
-      buttonLink:
-        "https://amzn.to/3K73LAn",
     },
     {
       image: Ariel,
@@ -79,7 +71,24 @@ const Blogcards: React.FC<indexProps> = () => {
       heading: "Spruce Shave Club Charcoal Facial Kit For Men",
       description: "CONTROL OILY SKIN | Our facial kit for men is powered by activated charcoal which has powerful adsorbent properties",
       buttonLink: "https://amzn.to/3KVmuze"
+    },
+    {
+      image: Peekaboo,
+      title: "Children",
+      heading: "BABYS VERY FIRST LIFT-THE-FLAP PEEK-A-BOO",
+      description: "Who's hiding behind the bath-time bubbles, behind a bedtime book or snuggled under a cosy duvet?",
+      buttonLink: "https://amzn.to/3L38d3f"
     }
+    ,
+    {
+      image: Sorter,
+      title: "Children",
+      heading: "MINGKIDS Montessori Toys for 1 Year Old",
+      description: "MINGKIDS Montessori Toys for 1 Year Old,Baby Sorter Toy Colorful Cube and 6 Pcs Multi Sensory Shape, Toddler Developmental Learning Toys Birthday Gifts,Baby Toys 6-12-18 Months",
+      buttonLink: "https://amzn.to/45FiOuI"
+    }
+
+
 
 
 

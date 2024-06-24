@@ -84,7 +84,7 @@ const Blogcards: React.FC<indexProps> = () => {
       image: Sorter,
       title: "Children",
       heading: "MINGKIDS Montessori Toys for 1 Year Old",
-      description: "MINGKIDS Montessori Toys for 1 Year Old,Baby Sorter Toy Colorful Cube and 6 Pcs Multi Sensory Shape, Toddler Developmental Learning Toys Birthday Gifts,Baby Toys 6-12-18 Months",
+      description: "MINGKIDS Montessori Toys for 1 Year Old,Baby Sorter Toy Colorful Cube and 6 Pcs Multi Sensory Shape,",
       buttonLink: "https://amzn.to/45FiOuI"
     }
 
